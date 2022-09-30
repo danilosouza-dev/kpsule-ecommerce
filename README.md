@@ -4,18 +4,17 @@
 
 <br>
 
-## :camera: Demonstration
+## 💻: Online [click here ->](https://glittery-nougat-b50bcd.netlify.app/){:target="_blank"}
 
 
-
-[Online](https://glittery-nougat-b50bcd.netlify.app/)
+## 📷: Demonstration
 
 
 <div align="center" >
   <img src="src/assets/to-readme/reload-health-ecommerce-gif.gif" alt="demo-web" height="425">
 </div>
 
-## :rocket: technologies
+## 🚀: technologies
 
 This project was developed with the technologies:
 
