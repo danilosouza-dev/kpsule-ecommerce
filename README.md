@@ -7,8 +7,6 @@
 ## :camera: Demonstration
 
 
-<a href="https://glittery-nougat-b50bcd.netlify.app/" />
-
 
 <div align="center" >
   <img src="src/assets/to-readme/reload-health-ecommerce-gif.gif" alt="demo-web" height="425">
