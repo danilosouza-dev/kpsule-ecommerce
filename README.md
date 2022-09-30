@@ -60,4 +60,7 @@ Kpsule E-commerce is a project developed for a code challenge proposed by the co
 
 5- access the initialized localhost port
 
----
+
+## 📱 Social:
+
+💼 [LinkedIn](https://www.linkedin.com/in/danilosouza-dev/)
