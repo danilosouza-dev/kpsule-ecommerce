@@ -4,17 +4,19 @@
 
 <br>
 
-## 💻: Online [click here ->](https://glittery-nougat-b50bcd.netlify.app/){:target="_blank"}
+## 💻 Online:
+
+ <a href="https://glittery-nougat-b50bcd.netlify.app/" target="_blank">Click here to view an online demo -></a>
 
 
-## 📷: Demonstration
+## 📷 Demonstration:
 
 
 <div align="center" >
   <img src="src/assets/to-readme/reload-health-ecommerce-gif.gif" alt="demo-web" height="425">
 </div>
 
-## 🚀: technologies
+## 🚀 technologies:
 
 This project was developed with the technologies:
 
@@ -39,7 +41,7 @@ This project was developed with the technologies:
 ✔️vite
 
 
-## 💻 Project
+## 💻 Project:
 
 Kpsule E-commerce is a project developed for a code challenge proposed by the company Reload Health
 
